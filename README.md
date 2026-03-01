@@ -1,16 +1,77 @@
-# React + Vite
+# 🚀 Agency AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern responsive agency website built using **React, Vite, and Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Preview
+(Coming Soon - Will be deployed)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ React  
+- ⚡ Vite  
+- 🎨 Tailwind CSS  
+- 🌙 Dark / Light Mode  
+- 📩 Web3Forms Integration  
+- 📦 Git & GitHub  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- ✅ Fully Responsive Design  
+- ✅ Dark / Light Theme Toggle  
+- ✅ Smooth Scrolling Navigation  
+- ✅ Contact Form with Email Integration  
+- ✅ Form Auto Reset After Submit  
+- ✅ Clean Modern UI  
+- ✅ Mobile Friendly Navigation  
+- ✅ Sticky Navbar  
+- ✅ Professional Layout  
+
+---
+
+## 📂 Project Structure
+
+
+agency-ai/
+│
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+│
+├── tailwind.config.js
+├── vite.config.js
+└── package.json
+
+
+---
+
+## 🚀 How To Run Locally
+
+```bash
+git clone https://github.com/vanshika1711-cpu/agency-ai.git
+cd agency-ai
+npm install
+📬 Contact Form
+
+Integrated using Web3Forms API
+Form resets automatically after successful submission.
+
+👩‍💻 Author
+
+Vanshika Dixit
+
+GitHub: https://github.com/vanshika1711-cpu
+
+⭐ If you like this project
+
+Give it a ⭐ on GitHub!
+npm run dev
