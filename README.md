@@ -5,7 +5,7 @@ A modern responsive agency website built using **React, Vite, and Tailwind CSS**
 ---
 
 ## 🌐 Live Preview
-(Coming Soon - Will be deployed)
+https://agency-ai-iota-gray.vercel.app
 
 ---
 
